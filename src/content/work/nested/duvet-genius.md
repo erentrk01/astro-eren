@@ -1,22 +1,82 @@
 ---
-title: Duvet Genius
+title: SmartDelta DIA4M
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/poster_dıa4m.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  Distributed Visual Log Trace Analysis Tool for Devops Engineers
 tags:
-  - Design
-  - Dev
-  - Branding
+  - React.js 
+  - Node.js TS
+  - Material UI
+  - Elastic Cloud
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+### DIA4M Team
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Meet our exceptional team members:
+- **Me, Eren Tarak**
+  - *Role:* Full Stack Developer
+- **[Dr. Hakan Kılınç](https://www.linkedin.com/in/hakan-kilinc-phd-06863820/)**
+  - *Role:* Project Manager
+- **[Yury Yakhno](https://github.com/YuryYakhno)**
+  - *Role:* Data Scientist
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+> Watch the introduction:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bz_X0XcyY18?si=-4WwUBzucHivcJev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+During my tenure at Orion Innovation, I played a key role in [SmartDelta](https://smartdelta.org/) 
+International R&D project, a part of [ITEA4](https://itea4.org/). The project's focus was on "Automated
+Quality Assurance and Optimization in Incremental Industrial Software Systems
+Development."
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Effectively advanced the extraction of mappings between microservices based on
+business requirements, starting at 60% completion and successfully achieving 100%.
+•
+This accomplishment significantly enhanced the accuracy of understanding and
+optimizing system interactions, ultimately contributing to improved software quality
+and operational efficiency.
+
+Developed state-of-the-art UI/UX interfaces for troubleshooting use cases using an
+innovative node-based interactive visualization approach, combining the [d3-force](https://d3js.org/d3-force)
+layout and [reactflow](https://reactflow.dev/) library.
+
+![Visualizer!](/assets/visualizer.png "San Juan Mountains")
+
+![Visualizer!](/assets/visualizer1.png "San Juan Mountains")
+
+![Visualizer!](/assets/visualizer2.png "San Juan Mountains")
+
+![Visualizer!](/assets/visualizer3.png "San Juan Mountains")
+
+![Visualizer!](/assets/visualizer4.png "San Juan Mountains")
+
+![Visualizer!](/assets/visualizer5.png "San Juan Mountains")
+
+Refactored the frontend architecture to improve decoupling and separation of
+concerns, resulting in a more maintainable and scalable codebase.
+
+Collaborated closely with DevOps engineers and ML engineers to gather feedback
+and enhance the user experience and functionality.
+
+Integrated data science prediction module and Node.js backend by contributing to both Python
+Flask and Node.js APIs.
+
+![Resource Usage !](/assets/Resource_Usage.png "San Juan Mountains")
+
+
+Conducted exploratory data analysis and visualizations to present valuable insights from microservice logs, contributing to informed decision-making and problem-
+solving.
+
+![Outliers!](/assets/outliers.png "San Juan Mountains")
+
+![Services Summary !](/assets/Service_Summary.png "San Juan Mountains")
+
+
+Developed Elastic Cloud Integration so that AWS based distributed systems integrated into DIA4M easily and the system get the transaction values through Elastic Infrastructure 
+
+![Anomalies!](/assets/anomalies.png "San Juan Mountains")
+Currently, I m working on Anomaly Detection Module Integration between Node.js Backend, Elastic Cloud and Flask Data Science API.
+
+![Anomaly!](/assets/hover_anomaly.png "San Juan Mountains")
+

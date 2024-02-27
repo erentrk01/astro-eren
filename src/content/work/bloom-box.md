@@ -1,23 +1,72 @@
 ---
-title: Bloom Box
+title: Cubicl
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+img: /assets/cubicl.webp
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Cubicl Task Management Application is a web and mobile-based application that allows you to manage your work with your team. During my first whirlwind two months as a web developer intern, I dove headfirst into a world of groundbreaking experiences and endless excitement!
 tags:
-  - Dev
-  - Branding
+  - Frontend
+  - UI 
   - Backend
+  - Bug fixing
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+### Netcad3D Team
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Meet our exceptional team members:
+- **Me, Eren Tarak**
+  - *Role:* Web Development Intern
+- **[Erkan Pulat]()**
+  - *Role:* Software Engineer
+- **[Doğukan Berat Karataş]()**
+  - *Role:* Senior Software Engineer
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6z-DYvQK1rc?si=k4jgX1aQ_GVmsAiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Usecases
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+#### Task Management
+- **Assign Tasks:** Assign tasks to team members.
+- **Track Progress:** Utilize customizable Kanban view for easy task tracking.
+- **Receive Notifications:** Get notified about task assignments, progress changes, overdue tasks, and task comments.
+- **Features Include:**
+  - Start and due dates
+  - File attachments
+  - Time tracking
+  - Recurring tasks
+  - Sub-tasks
+  - Reminders
+  - Task comments
+  - Kanban customization
+
+#### Team Collaboration
+- **File Sharing:** Share files seamlessly.
+- **Messaging:** Communicate via personal or group chat.
+- **Task Comments:** Provide feedback and updates on tasks.
+- **Easy Information Retrieval:** Shared information is easily accessible later.
+
+#### Project Management
+- **Project Planning:** Plan projects effectively.
+- **Performance Evaluation:** Receive reports and statistics on completed tasks, time spent, and team member performance.
+- **Visualization Tools:** Utilize Gantt Charts and Time Chart for better project visualization.
+- **Features Include:**
+  - Interactive Gantt Charts
+  - Task reports
+  - Task relations
+  - Time Chart for team workload
+  - Time tracking reports
+  - Integration with tasks
+
+#### What I contribute
+
+- Mainly focused on frontend development
+- Angular 8.0, Typescript
+-Hands on experience in components, services, third party libraries, directives, data
+binding
+
+- Performed some asynchronous data operations and other ES6 features
+- Bootstrap and SCSS
+- Fixed numerous responsive and other style issues of the web application
+- Worked on Cross-browser compatibility issues
+- Backend Fixed some bugs using PHP Laravel
