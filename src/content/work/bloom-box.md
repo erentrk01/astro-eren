@@ -12,7 +12,7 @@ tags:
   - Bug fixing
 ---
 
-### Netcad3D Team
+### Cubicl Team
 
 Meet our exceptional team members:
 - **Me, Eren Tarak**
