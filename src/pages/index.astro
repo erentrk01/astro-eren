@@ -80,6 +80,31 @@ const projects = (await getCollection('work'))
 				</div>
 			</section>
 
+			<section class="section with-background bg-variant">
+				<header class="section-header stack gap-2 lg:gap-4">
+					<h3>Testimonials</h3>
+					<p>
+						I have been fortunate enough to receive praise for my work by collaborators, project managers, instructors. Take
+						a look below to learn more.
+					</p>
+				</header>
+
+				<div class="gallery">
+					<Grid variant="offset">
+						{
+							[{href:'mailto:yury.yakhno@orioninc.com',who:'Yury Yakhno(AI/ML Engineer at Orion Innovation)',testimonial:"Eren's work on the ITEA4 SmartDelta project was impressive. He excelled in interactive data visualization with D3.js and implemented effective anomaly detection using Tukey Fences. His interactive dashboard, integrating Python data processing into Node.js, showcased speed, functionality, and comprehensive coverage. I was thoroughly impressed."},{href:'https://www.linkedin.com/in/hakan-kilinc-phd-06863820/', who:'Hakan Kılınç Ph.D.(Project Manager)', testimonial:"Eren's rapid adaptation to new topics and techniques stood out, allowing him to create a prototype swiftly. His exceptional presentation skills were evident when demonstrating the project to European partners and managers. His clear articulation of complex concepts left a lasting impression, showcasing excellent communication and interpersonal abilities."}].map((brand) => (
+								<li class="mention-card">
+									<a href={brand.href} class='testimonial'>{brand.who}</a>
+									<p class='testimonial'>"{brand.testimonial}"</p>
+									
+								</li>
+								
+							))
+						}
+					</Grid>
+				</div>
+			</section>
+
 		
 		</main>
 
@@ -211,9 +236,14 @@ const projects = (await getCollection('work'))
 
 	/* ====================================================== */
 
+	.testimonial{
+		padding:0.20rem;
+	}
+
 	.mention-card {
-		display: flex;
-		height: 7rem;
+		padding:1rem;
+		padding-bottom:1.5rem !important;
+		height: 12rem !important;
 		justify-content: center;
 		align-items: center;
 		text-align: center;
@@ -222,12 +252,23 @@ const projects = (await getCollection('work'))
 		color: var(--gray-300);
 		background: var(--gradient-subtle);
 		box-shadow: var(--shadow-sm);
+		margin-bottom:5rem;
 	}
 
-	@media (min-width: 50em) {
+@media (min-width: 800px) and (max-width: 1114px) {
+    .mention-card {
+        height: 20.5rem !important;
+    }
+}
+
+		@media (max-width: 548px) {
 		.mention-card {
-			border-radius: 1.5rem;
-			height: 9.5rem;
+			
+			height: 20.5rem !important;
 		}
 	}
+	a {
+    text-decoration: none;
+}
+
 </style>
